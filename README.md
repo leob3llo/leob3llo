@@ -14,4 +14,7 @@
     <img  align = "center" alt "JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img  align = "center" alt "PHYTON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div></br>
-#Apaixonado por tecnologias e inovações e capacidade do poder transformação pessoal e profional.
+# Apaixonado por tecnologias e inovações e capacidade do poder transformação pessoal e profional.
+
+### Minhas últimas atualizações:
+[! [p5.jsWebEditor](https://editor.p5js.org/leob3llo/sketches/a3ZPiHB-A)]()
