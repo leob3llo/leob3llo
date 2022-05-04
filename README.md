@@ -17,5 +17,5 @@
 #### Apaixonado por tecnologias e inovações e capacidade do poder transformação pessoal e profional.
 
 #### Dê o play e venha se divertir nesse jogo:
-#### Dê o play e venha se divertir nesse jogo:
-[![🎾](https://editor.p5js.org/)](https://editor.p5js.org/leob3llo/full/wFCAbbK_0
+[![🎾](https://editor.p5js.org/)](https://editor.p5js.org/leob3llo/full/wFCAbbK_0)
+
